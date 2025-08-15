@@ -6,3 +6,4 @@
 'is_outside_home_country', 'is_high_risk_vendor', 'max_single_amount',  'num_transactions', 'unique_countries', 'unique_merchants'
 и извлечем feature_importances_
 
+!(/resources/важность критериев.png)
